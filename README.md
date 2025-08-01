@@ -29,6 +29,7 @@ Welcome to my portfolio! I'm a passionate and detail-oriented professional with 
 - Power BI on Azure
 
 ---
+#💻 Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/>
   <img src="https://img.shields.io/badge/DAX-000000?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
@@ -66,7 +67,7 @@ A dynamic sales performance dashboard for a retail dataset.
 ---
 
 ## 📫 Let's Connect
-- 📧 Email: [your.email@example.com]
+- 📧 Email: [vsai1698@gmail.com]
 - 🌐 Portfolio: [Your Website or GitHub Pages link]
 - 💼 LinkedIn: [Your LinkedIn Profile]
 - 📁 Resume: [Link to Resume PDF or hosted file]
@@ -82,15 +83,3 @@ A dynamic sales performance dashboard for a retail dataset.
 ---
 
 > “Data is the new oil, and design is the engine that makes it usable.”
-
----
-
-## 🖼️ Templates & Styling Ideas
-To make this README visually attractive:
-- Use **badges** (e.g., GitHub Stats, Skills)
-- Add **GIFs or screenshots** of your dashboards
-- Highlight tools with **icons** (markdown-supported)
-
----
-
-Feel free to fork this or ask me if you'd like help setting it up as a GitHub portfolio or hosted site! 🚀
