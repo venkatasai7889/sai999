@@ -29,6 +29,17 @@ Welcome to my portfolio! I'm a passionate and detail-oriented professional with 
 - Power BI on Azure
 
 ---
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DAX-000000?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Advance Excel-217346?style=for-the-badge&logo=Microsoft%20Excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snowflake-56B9EB?style=for-the-badge&logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Data Analytics-00C4CC?style=for-the-badge&logo=Canva&logoColor=white"/>
+</p>
 
 ## 📈 Projects
 
