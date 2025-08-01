@@ -1,11 +1,44 @@
-# 🙏 Hi, I'm Venkata Sai Krishna
+<h1 align="center">Hi 👋, I'm Venkata Sai Krishna</h1>
+<h3 align="center">A passionate Data Analyst & Power BI Developer from India</h3>
 
-### 💼 Data Analyst | SQL & Power BI Developer | PL/SQL | Python | UX Designer
-
-Welcome to my portfolio! I'm a passionate and detail-oriented professional with hands-on experience in data analytics, business intelligence, and front-end UI/UX design. With a strong foundation in both data and design, I create solutions that are insightful, user-friendly, and impactful.
+<p align="center">
+  🌱 Currently exploring deeper insights with Snowflake, AWS, and DAX.<br>
+  📊 Specializing in Power BI, SQL, Excel, Python, and dashboard automation.<br>
+  🧠 Always learning—whether it's debugging a query or designing intuitive UIs.<br>
+  ✨ Turning raw data into meaningful stories that drive real decisions.
+</p>
 
 ---
 
+## ✨ What you'll find here:
+
+- 📊 Dashboards and data projects showcasing real-world problem solving  
+- 🧠 Insights from building scalable analytics using cloud tools like Snowflake & AWS  
+- 🎨 Experiments with UI/UX design and data storytelling techniques  
+
+---
+
+## 📱 Connect with me:
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:yourmail@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://your-resume-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
+  </a>
+  <a href="tel:+91yourphonenumber">
+    <img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
+  </a>
+  <a href="https://your-portfolio-link.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+---
 
 ## 📈 Projects
 
@@ -25,24 +58,17 @@ A content analysis dashboard focusing on trends across regions and genres.
 - Snowflake used for warehousing; AWS (S3) for data storage  
 - Tools: Snowflake, AWS, Power BI
 
-
----
-
-## 📫 Let's Connect
-- 📧 Email: [vsai1698@gmail.com]
-- 🌐 Portfolio: [Your Website or GitHub Pages link]
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 📁 Resume: [Link to Resume PDF or hosted file]
-
 ---
 
 ## 🚀 Interests
-- Data Storytelling
-- Clean, minimal UI design
-- Solving business problems with numbers
-- Exploring AI and Cloud Tech
+- Data Storytelling  
+- Clean, minimal UI design  
+- Solving business problems with numbers  
+- Exploring AI and Cloud Tech  
 
-- ## 💻 Skills
+---
+
+## 💻 Skills
 
 <p align="left">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/>
