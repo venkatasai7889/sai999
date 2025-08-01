@@ -28,8 +28,8 @@ Welcome to my portfolio! I'm a passionate and detail-oriented professional with 
 - AWS Cloud Fundamentals
 - Power BI on Azure
 
----
-#💻 Tech Stack
+## 💻 Tech Stack
+
 <p align="left">
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black"/>
   <img src="https://img.shields.io/badge/DAX-000000?style=for-the-badge&logo=Power%20BI&logoColor=white"/>
