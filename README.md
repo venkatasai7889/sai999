@@ -30,8 +30,8 @@
   <a href="https://drive.google.com/file/d/1IstmrZZCoXuWrDJnwRyy3eJzVze2Iy-r/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
   </a>
-<a href="tel:+919381578118">
-  <img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=phone&logoColor=white" alt="Phone"/>
+<a href="https://wa.me/919381578118" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
 </a>
   <a href="https://your-portfolio-link.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-24292F?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
