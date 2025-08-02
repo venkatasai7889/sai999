@@ -21,16 +21,16 @@
 ## 📱 Connect with me:
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank">
+  <a href="www.linkedin.com/in/venkat-sai-928b741b7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:yourmail@gmail.com" target="_blank">
+  <a href="mailto:vsai1698@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://your-resume-link.com" target="_blank">
+  <a href="https://drive.google.com/file/d/1IstmrZZCoXuWrDJnwRyy3eJzVze2Iy-r/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume"/>
   </a>
-  <a href="tel:+91yourphonenumber">
+  <a href="tel:+919381578118">
     <img src="https://img.shields.io/badge/Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
   </a>
   <a href="https://your-portfolio-link.com" target="_blank">
