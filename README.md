@@ -2,11 +2,22 @@
 <h3 align="center">A passionate Data Analyst & Power BI Developer from India</h3>
 
 <p align="center">
-  🌱 Currently exploring deeper insights with Snowflake, AWS, and DAX.<br>
-  📊 Specializing in Power BI, SQL, Excel, Python, and dashboard automation.<br>
+  🌱 Currently exploring deeper insights with <b>Snowflake</b>, <b>AWS</b>, and <b>DAX</b>.<br>
+  📊 Specializing in <b>Power BI</b>, <b>SQL</b>, <b>Excel</b>, <b>Python</b>, and dashboard automation.<br>
   🧠 Always learning—whether it's debugging a query or designing intuitive UIs.<br>
   ✨ Turning raw data into meaningful stories that drive real decisions.
 </p>
+
+---
+
+### 👨‍💻 Professional Experience
+
+- 🏢 **Wipro Ltd.** — *Software Engineer*  
+  🗓️ *3 Years of IT Experience*  
+  🔹 Delivered scalable and optimized data solutions for enterprise clients  
+  🔹 Built automation tools and dashboards using Power BI and SQL  
+  🔹 Worked with cross-functional teams to deliver client-specific analytics  
+  🔹 Hands-on with Snowflake, AWS S3, Data Warehousing, and ETL tasks
 
 ---
 
